@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "QUiz",
-    "slug": "Quiz",
+    "name": "Tone-Quiz",
+    "slug": "Tone-Quiz",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": ["ios", "android"],
